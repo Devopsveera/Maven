@@ -1,2 +1,0 @@
-# Maven
-used for testing
